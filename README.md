@@ -17,7 +17,7 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 [x] Welcome to Developing Rails API Applications
-[˜] Rails APIs: The First 10 Minutes
+[x] Rails APIs: The First 10 Minutes
 [ ] Coding Your First RESTful Resource
 [ ] Serializing Model Data
 [ ] Testing Your API
